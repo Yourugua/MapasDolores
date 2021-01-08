@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">C.A.DOL. Dolores</string>
+    <string name="menu_acercade">Acerca de..</string>
+    <string name="texto_acerca">Creado Enero 2021</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
